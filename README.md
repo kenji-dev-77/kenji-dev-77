@@ -1,16 +1,23 @@
-## Hi there 👋
+# UbelRefactor
 
-<!--
-**kenji-dev-77/kenji-dev-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer focused on building practical web applications, automation workflows, and useful tools.
 
-Here are some ideas to get you started:
+I like turning ideas into working products: clean interfaces, reliable backends, and documentation that helps the next person move faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+- Full-stack web applications
+- Automation and productivity tooling
+- Audio transcription and content workflows
+- APIs, integrations, and developer tools
+
+## How I work
+
+- Ship small, useful improvements
+- Keep code readable and maintainable
+- Document decisions and next steps
+- Learn fast, test often, and refine with feedback
+
+## Current direction
+
+I am organizing private projects and turning the strongest ones into public, well-documented repositories.
